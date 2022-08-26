@@ -1,0 +1,46 @@
+
+body{
+  text-align: justify;
+-moz-text-align-last: center;
+text-align-last: center;
+}
+
+.container-fluid{
+  padding: 3px 25%;
+}
+
+.top-container{
+  background-color:#E4f9E5;
+  position: relative;
+  padding-top: 50px;
+}
+
+
+
+.middle-container{
+margin: 50px 0;
+}
+
+.bottom-container{
+  background-color: #E4f9E5;
+  padding: 50px 0 20px;
+}
+
+
+span{
+  line-height: 1;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 50%;
+  margin: 100px auto;
+}
+
+.btn{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+}
